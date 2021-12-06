@@ -12,7 +12,7 @@
 <?php
 echo $_GET['msg'];
 ?>
-<br> <br>
+<br><br>
 
 <a href="/lib/crear.php">crear</a>
 <a href="/lib/eliminar.php">eliminar</a>
